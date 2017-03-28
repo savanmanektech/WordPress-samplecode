@@ -1,0 +1,311 @@
+@media only screen and  (min-width:1800px){
+    .sub_listing .listing_box{margin: 0.7% 1.4% 0.7% 0;width: 23.6%;}
+    .sub_listing .midl_overlay .inner_text .in_contain p{line-height: normal;font-size: 15px;}
+    /* .sub_listing .listing_box .midl_overlay{top: 83%;} */
+}
+@media only screen and (min-width: 1400px) {
+    .news_detail_page .right_imgtag img {
+        margin: 0 10px 20px;
+    }
+}
+@media only screen and (max-width: 1299px) {
+    .news_listing_page .news_list_midl .left_imgtag .social_share, .studio_middel .studio-single-section .left_img .social_share {
+        left: 104%;
+    }
+    .news_listing_page .news_list_midl .right_content p {
+        margin: 0 0 6px;
+    }
+}
+@media only screen and (max-width: 1199px) {
+
+    .sub_listing .listing_box{width: 31%;margin:0.7% 1.4% 0.7% 0;float: left;overflow: hidden;position: relative;cursor: pointer;}
+
+
+    .sub_listing .midl_overlay .inner_text .in_contain p{font-size: 12px;line-height: 13px;margin: 4px 0 0;}
+    .sub_listing .midl_overlay .inner_text .in_contain h3{font-size: 13px;}
+    .sub_listing .listing_box .midl_overlay{top: 75%;}
+    .projects_detail .overview_detail p{width: 100%;}
+
+    body{-webkit-text-size-adjust:none;}
+    .inner_top_banner{background-attachment: inherit !important;}
+    .studio_middel .awards_detail .sub_listing .listing_box .midl_overlay{top: 70%;}
+    .studio_middel .awards_detail .sub_listing .midl_overlay .inner_text .in_contain h3{font-size: 12px;}
+    *{
+        -webkit-appearance: none;
+        -moz-border-radius:0px;
+        -webkit-border-radius:0px;
+        border-radius:0px;
+    }
+
+    .news_listing_page .news_list_midl .left_imgtag .social_share,  .direction_page .direction_listing .left_imgtag .social_share, .studio_middel .studio-single-section .left_img .social_share {
+        display: none;
+    }
+    .news_listing_page .news_list_midl .right_content .social_share, .direction_page .direction_listing .right_content .social_share, .studio_middel .studio-single-section .right_detail .social_share {
+        display: block;
+    }
+    .news_listing_page .news_list_midl .right_content p {
+        margin: 0 0 16px;
+    }
+}
+@media only screen and (max-width: 1010px) {
+}
+@media only screen and (max-width: 991px) {
+    .container {
+        width: 100%;
+    }
+    .custom_nav{margin-top: 0px;}
+    nav.navbar.bootsnav .navbar-toggle{margin: 0;background: transparent !important; color: #fff;top: 9px;}
+    nav.navbar.bootsnav .navbar-header{padding: 0 0 0 15px;}
+    nav.navbar.bootsnav .navbar-nav{padding: 0px;margin: 0px;}
+    nav.navbar.bootsnav ul.nav > li{margin: 0px;}
+    nav.navbar.bootsnav ul.nav > li > a{padding: 10px;}
+    nav.navbar.bootsnav .navbar-header{display: inline-block;}
+    nav.navbar.bootsnav.no-full .navbar-collapse{position: absolute;top: 48px;width: 100%;background: rgba(0, 0, 0, 0.8);margin-top:0px;}
+    nav.navbar.bootsnav .navbar-nav > li > a{border-bottom: 1px solid #444;border-top:none;margin-bottom:0px;}
+    nav.navbar.bootsnav ul.nav > li:hover > a, nav.navbar.bootsnav ul.nav > li.active > a{background: #fff !important;color: #111;}
+    .search_language{margin-left: 10px;margin-top:0px;}
+    header > .container{padding: 0px;}
+    header .logo{margin-right: 15px;}
+
+    .news_listing_page .news_list_midl .left_imgtag{margin: 0 0 10px;}
+    .news_listing_page .news_list_midl .right_content h2{font-size: 16px;}
+    .news_listing_page .news_list_midl .right_content .social_share{margin-top: 22px;}
+
+    .side_bar_left h2{font-size: 16px;margin: 0 0 16px;}
+    .side_bar_left h2 span {font-size: 12px}
+    .side_menu ul li a{font-size: 13px;}
+    .side_menu ul{margin: 0 0 15px;}
+
+    .news_detail_page .left_content h2{font-size: 16px;}
+
+    .sub_listing .listing_box{width: 48%;margin: 10px 10px 10px 0;}
+    .sub_listing .listing_box .midl_overlay{top: 80%;}
+    .sub_listing .midl_overlay .inner_text .in_contain p {font-size: 14px;line-height: 16px;margin: 6px 0 0;}
+
+    .social_share ul li{margin-bottom: 4px;}
+    .project_detal_left .product_descrip ul li{font-size: 12px;}
+    .project_detal_left .product_descrip ul li .text_deta{margin-left: 4%;width: 66%;}
+
+    .people_detail .people_detal_left p{font-size: 13px;}
+    .direction_page .direction_listing .left_imgtag{margin: 0 0 10px;}
+}
+@media only screen and (max-width: 767px) {
+    .back_bt{margin-top: 20px;}
+    .news_detail_page .left_content{margin-bottom: 20px;}
+    .sub_listing .midl_overlay .inner_text .in_contain h3{font-size: 14px;margin: 0 0 10px;}
+    .news_listing_page{padding: 25px 0 0px;}
+
+    .side_bar_left{margin: 0 0 20px;}
+    .project_detal_left .product_descrip ul li{font-size: 13px;}
+    .people_detail .people_detal_left{margin: 0 0 20px;}
+
+    .studio_middel .contact_detail .left_img{margin: 0 0 10px;}
+    .studio_middel .profile_detail .left_img img{margin: 0 0 10px;}
+    .studio_middel .awards_detail .sub_listing .listing_box .midl_overlay{top: 71%;}
+
+    .studio_middel .awards_detail .sub_listing {padding: 0;}
+
+    .direction_detail_page .right_imgtag{margin-top: 20px;}
+    .studio_middel .contact_detail {
+        margin: 0 0 25px;
+    }
+}
+@media only screen and (max-width: 639px) {
+    .sub_listing .midl_overlay .inner_text .in_contain p{font-size: 12px;line-height: 13px;margin: 4px 0 0;}
+    .sub_listing .midl_overlay .inner_text .in_contain h3{font-size: 13px;margin: 0;}
+    .sub_listing .listing_box .midl_overlay{top: 75%;}
+}
+@media only screen and (max-width: 479px) {
+    header .logo{width: 156px;}
+    nav.navbar.bootsnav.no-full .navbar-collapse{top: 43px;}
+    .sub_listing .listing_box .midl_overlay{top: 88%;}
+    .sub_listing .listing_box{width: 100%;margin: 1% 0;}
+    .sub_listing .midl_overlay .inner_text .in_contain p{font-size: 14px;line-height: 16px;margin: 6px 0 0;}
+    .studio_middel .awards_detail .sub_listing .listing_box .midl_overlay{top: 86%;}
+
+    .projects_page .project-page-sidebar .side_menu .sidebar-single-bx {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+        width: 49%;
+    }
+}
+@media only screen and (max-width: 420px) {
+    .sub_listing .listing_box .midl_overlay{top: 80%;}
+    .sub_listing .midl_overlay .inner_text .in_contain h3{font-size: 14px;margin: 0 0 12px;}
+    .studio_middel .awards_detail .sub_listing .listing_box .midl_overlay{top: 77%;}
+    .studio_middel .awards_detail .sub_listing .midl_overlay .inner_text .in_contain h3{font-size: 13px;}
+}
+
+
+
+/*
+
+.sub_listing.similar_project_list .listing_box:hover .midl_overlay {
+    top: 0 !important;
+    transition: all 0.8s ease 0s;
+}
+
+
+@media all and (max-width: 2500px) and (min-width:1900px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:196px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:191px !important;
+        }
+}
+@media all and (max-width: 1889px) and (min-width: 1366px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:123px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:119px !important;
+        }
+}
+@media all and (max-width: 1365px) and (min-width: 1280px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:113px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:108px !important;
+        }
+}
+@media all and (max-width: 1279px) and (min-width: 1024px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:123px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:116px !important;
+        }
+}
+@media all and (max-width: 1023px) and (min-width: 980px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:214px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:204px !important;
+        }
+}
+@media all and (max-width: 979px) and (min-width: 900px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:194px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:184px !important;
+        }
+}
+@media all and (max-width: 899px) and (min-width: 800px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:168px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:158px !important;
+        }
+}
+@media all and (max-width: 799px) and (min-width: 768px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:158px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:149px !important;
+        }
+}
+
+@media all and (max-width: 767px) and (min-width: 736px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:212px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:203px !important;
+        }
+}
+@media all and (max-width: 735px) and (min-width: 732px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:211px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:211px !important;
+        }
+}
+@media all and (max-width: 731px) and (min-width: 667px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:188px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:178px !important;
+        }
+}
+@media all and (max-width: 665px) and (min-width: 640px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:180px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:171px !important;
+        }
+}
+@media all and (max-width: 639px) and (min-width: 600px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:168px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:158px !important;
+        }
+}
+@media all and (max-width: 599px) and (min-width: 568px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:158px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:148px !important;
+        }
+}
+@media all and (max-width: 567px) and (min-width: 480px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:126px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:116px !important;
+        }
+}
+@media all and (max-width: 479px) and (min-width: 414px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:256px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:236px !important;
+        }
+}
+
+@media all and (max-width: 413px) and (min-width: 412px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:259px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:231px !important;
+        }
+}
+@media all and (max-width: 411px) and (min-width: 375px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:229px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:207px !important;
+        }
+}
+@media all and (max-width: 374px) and (min-width: 360px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:215px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:195px !important;
+        }
+}
+@media all and (max-width: 359px) and (min-width: 320px) {
+        .sub_listing .listing_box .midl_overlay{
+                top:190px !important;
+        }
+        .sub_listing.similar_project_list .listing_box .midl_overlay{
+                top:167px !important;
+        }
+} */

@@ -1,0 +1,20 @@
+.table .td_action a
+{
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+}
+.table .td_action a:hover
+{
+    color: #0074a2;
+}
+.wrap > h2 > a.btn > i
+{
+    font-size: 14px;
+    float: left;
+    height: 18px;
+}
+.alert
+{
+    padding: 10px 15px;
+}

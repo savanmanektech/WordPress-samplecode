@@ -1,0 +1,138 @@
+/*
+    Theme Name: Manektech
+    Theme URI: 
+    Description: Hello this is Manektech Version 1.0
+    Version: 1.0
+    Author: Manektech
+    Author URI: 
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* -- Basic Style -- */
+
+
+.search_pager .page-numbers.current {
+    border: 1px solid #000;
+    padding: 4px 0;
+    width: 29px;
+    color:#FFF;
+    background:#000;
+
+}
+.search_pager a.page-numbers {
+    border: 1px solid #000;
+    color: #000;
+    min-width: 29px;
+    padding: 4px 6px;
+}
+.search_pager a.page-numbers:hover {
+    border: 1px solid #000;
+    color: #FFF;
+    background:#000;
+}
+#quicksearch {
+    border-color: #000 !important;
+    border-width: 0 0 1px;
+    width: 177px;
+}
+a {
+    cursor: pointer;
+}
+
+.page_search_btn {
+    background: #000;
+    border: medium none;
+    color: #fff;
+    padding: 6px;
+    margin-top:6px;
+}
+
+input.searchbox {
+    border-color: #000;
+    border-width: 0 0 1px;
+    width: 177px;
+    margin-bottom: 8px;
+}
+.people-link{
+    color:#000;
+}
+.people-link:hover{
+    color:#a6a6a6;
+}
+.right_content h2{
+    color: #000;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Swiss721BT-Bold';
+    text-transform: uppercase;
+    text-align: left;
+    margin: 0 0 20px;
+}
+.home .news_list_midl .col-md-9.col-sm-9.col-xs-12 {
+    min-height: 550px;
+}
+.back_bt.dw {
+    margin-right: 10px;
+    width: auto;
+}
+.page .inner_page {
+    padding: 50px 0 0px;
+}
+.side_menu .col-xs-4 {
+    padding: 0;
+}
+
+.smoothscroll.homearrow .godown_btn{
+    top:-83px;
+}
+footer{
+    position: relative;
+    padding: 1.2em 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+    background: #F7F8F9;
+    margin-top:10px;
+}
+footer .social_share{
+    margin-top: 0px;
+}
+footer ul {
+    display: block;
+    float: left;
+    margin-bottom: 0;
+    padding-left: 0;
+    text-align: center;
+    width: 100%;
+}
+footer ul li {
+    display: inline-block;
+    list-style: outside none none;
+    margin-right: 20px;
+}
+
+footer ul li a{
+    color:#000;
+}
+
+.menu-footer-menu-container {
+    /*  float: right; */
+}
+
+.fix-title{
+    position:absolute;
+    top:50vh;
+}
+.fix-title h1{
+    font-family: "Swiss721BT-Bold";
+    font-size: 22px;
+    margin: 0;
+    text-align: left;
+    text-shadow: 0 1px 2px #333;
+    text-transform: uppercase;
+}
+.home-slider video{
+    min-width: 100%;
+    min-height: 100vh;
+}
